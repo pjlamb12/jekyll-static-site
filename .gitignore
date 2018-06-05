@@ -1,0 +1,4 @@
+*.lock
+.DS_Store
+.vscode
+_site
